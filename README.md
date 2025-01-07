@@ -1,2 +1,4 @@
 # Project of group 6
-# Dự án nhà thông minh 
+# Hệ thống giám sát nhà máy thông minh
+Danh sách thành viên nhóm:
+•	Đào Xuân Hà 
