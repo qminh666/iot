@@ -18,7 +18,7 @@
 
 3. Tiềm năng phát triển: Hệ thống có khả năng mở rộng với các tính năng như giám sát từ xa, dự đoán bảo trì và ứng dụng AI, phù hợp với xu hướng hiện đại hóa sản xuất.
 
-ngày 15/01
+
 
 
 
